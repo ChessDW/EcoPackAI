@@ -86,17 +86,17 @@ EcoPackAI addresses the plastic packaging crisis through six key impact areas:
 
 ## Team
 
-Developed by **Group 5, Section 11-6** — Colegio Técnico Profesional de Educación Comercial y de Servicios (COTEPECOS)
+Developed by **Group 11-6** — Colegio Técnico Profesional de Educación Comercial y de Servicios (COTEPECOS)
 
 | Name | Role |
 |---|---|
-| Dilan Santiago Calvo Cabezas | Presentation Lead / Benefits |
+| Dilan Santiago Calvo Cabezas | Programmer |
 | Adrián Josué Durán Jiménez | Problem Analysis |
-| Jeremy Gutiérrez Fajardo | Solution & Closing |
-| [Andrés Delgado Marín](https://www.instagram.com/reliableprogrammer/) | How It Works |
-| Fabricio Jesús Fallas Moreira | Technology |
+| Jeremy Gutiérrez Fajardo | Marketing |
+| [Andrés Delgado Marín](https://www.instagram.com/reliableprogrammer/) | Main Programmer |
+| Fabricio Jesús Fallas Moreira | Designer |
 
-*Academic English · ExpoTécnica 2025*
+*Academic English · ExpoTécnica 2026*
 
 ---
 
